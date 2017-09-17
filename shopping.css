@@ -1,0 +1,45 @@
+body{
+    background-color: Gainsboro;
+}
+
+.container{
+    background-color: white;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    height: 95vh;
+}
+
+#field{
+    margin-top: 30px;
+}
+
+#Add{
+    background-color: green;
+    height: 60px;
+    font-size: 24px;
+}
+
+#add_item{
+    height: 60px;
+    font-size: 24px;
+}
+
+#altcolor {
+    border: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#altcolor td{
+    border: 0;
+    font-size: 20px;
+    padding-left: 24px;
+}
+
+tr:nth-child(odd) {
+    background-color: beige;
+}
+
+tr{
+    height: 58px;
+}
